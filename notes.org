@@ -1,3 +1,8 @@
 These are some notes.
 
-**  org stuff
+**  basics
+This is just a very simple counter app, but it gives a reference about how to use Sagas.
+
+Understand JavaScript Generators.
+
+Btw this is also being used to learn Magit, and so that's really why I'm editing this now at all?
